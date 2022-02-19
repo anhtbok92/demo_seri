@@ -1,4 +1,8 @@
-### 1. Lập trình đồng bộ (synchronous) và IO blocking
+### 1. This và bind this
+
+- [Ví dụ](https://freetuts.net/hieu-hon-ve-ham-bind-trong-javascript-785.html)
+- [Hàm closure](https://freetuts.net/closure-trong-javascript-758.html)
+### 2. Lập trình đồng bộ (synchronous) và IO blocking
 
 #### a. Lập trình đồng bộ
 
