@@ -160,7 +160,7 @@ Trong đó:
 - Ví dụ : Xem file async_await.js
 
 ### Bài tập về nhà
-
++ Bài 1
 - Nhập vào tên user từ input
 - Hiển thị thông tin của user từ github dựa vào API của github
 - Các thông tin cần lấy ra : Tên, avatar, email, tên công ty, số lượng người flow
@@ -170,5 +170,13 @@ Trong đó:
     + API : https://api.github.com/users/{name}
     + Trong trường hợp không tìm thấy hiển thị thông báo "Không tìm thấy user bạn yêu cầu"
     + Sử dụng các kiến thức về Callback, Promise, Async/await
-
+    
 - Độ khó : 5/10
+
++ Bài 2: Làm slide đơn giản, thảo luận trong buổi tiếp theo
+- Tìm hiểu thêm
+  - Hoisting trong javascript
+  - Phân biệt var, let, const (Scope)
+  - Clouse trong javascipt
+  - HOC trong javascript
+  - ...
