@@ -1,3 +1,6 @@
+### Compare sql and nosql
+https://niithanoi.edu.vn/sql-vs-nosql.html
+
 ### Mongodb là gì ?
 - Mongodb là hệ quản trị cơ sở dữ liệu mã nguồn mở, quản lý dữ liệu dạng NOSQL
 - NoSQl là : None-Relational SQL.
