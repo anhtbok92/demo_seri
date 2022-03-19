@@ -20,6 +20,10 @@ https://niithanoi.edu.vn/sql-vs-nosql.html
 - windows: https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
 - Cài đặt Robo3T
 
+### API tra cứu mongoose
+
+https://mongoosejs.com/docs/api/model.html
+
 ### Sử dụng mongodb
 - Mongosee là 1 thư viện Object Data Modeling <ODM> hỗ trợ làm cầu nối giữa Nodejs với mongodb
 - Cài đặt : ```npm install mongosee```
