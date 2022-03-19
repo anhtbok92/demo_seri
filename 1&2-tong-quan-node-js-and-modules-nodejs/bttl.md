@@ -14,7 +14,7 @@
 - Cho 1 file json có nội dung sau
   { name: 'tuananh', children: ['com', 'ngo'], age: '31' }
 - Sử dụng queryString để convert sang chuỗi sau
-  'name=tuaanh&children=com&children=ngo&cage=31'
+  'name=tuananh&children=com&children=ngo&age=31'
 
 ### Bài 4: create module
 - Tạo 1 module trả về ngày tháng năm sinh của bản thân dạng : yyyy-mm-dd
