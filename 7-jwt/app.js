@@ -3,9 +3,19 @@ var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
+const mongoose = require("mongoose")
 
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
+
+// Kết nối database
+mongoose.connect('mongodb://localhost/tuananh_db',
+    {useNewUrlParser: true, useUnifiedTopology: true}).then(function() {
+  console.log("Successfully connected to the database");
+}).catch(function(err) {
+  console.log('Could not connect to the database. Exiting now...', err);
+  process.exit();
+});
 
 var app = express();
 
